@@ -1,0 +1,7 @@
+{
+    "prettier.useTabs": true,
+    "json.schemas": [
+    
+    ],
+    "debug.javascript.debugByLinkOptions": null
+}
